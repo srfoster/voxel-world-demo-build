@@ -7,7 +7,7 @@
   #:name "Voxel" 
   #:description 
   @md{
-    This work is Voxels.
+    Strange and beautiful magic has sculpted the landscape of this world with angles and sharp edges. Many a wizard has been inspired to produce geometrically structured spells in this environment.  
 
     @(div
        (alert-warning (b "Note.") " We are currently adding new runes and will update this world when we do.")
