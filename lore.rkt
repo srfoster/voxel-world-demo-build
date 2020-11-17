@@ -2,7 +2,6 @@
 
 (require codespells/lore)
 
-(define-runtime-path preview-image "images/preview.png")
 (define-authored-work-lore
   #:name "Voxel" 
   #:description 
@@ -14,5 +13,5 @@
     }
   #:rune-collections
   (list 'fire-particles)
-  #:preview-image preview-image)
+  #:preview-image preview.png)
 
