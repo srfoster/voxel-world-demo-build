@@ -5,3 +5,6 @@
 compiled/
 /doc/
 /out/
+*.exe
+*.zip
+/voxel-world-demo-build/
