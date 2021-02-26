@@ -8,3 +8,4 @@ compiled/
 *.exe
 *.zip
 /voxel-world-demo-build/
+/VoxelWorld*
